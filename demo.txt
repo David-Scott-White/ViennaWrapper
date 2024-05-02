@@ -1,0 +1,2 @@
+Import vienna as v
+v.RNAfold(‘TCCATTGCACTCCGGA’, T=25, show_image=True, save_image=True)
